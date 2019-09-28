@@ -1,6 +1,5 @@
 theme: jekyll-theme-midnight
 
-title: [The title of your site]
-description: [A short description of your site's purpose]
-
-show_downloads: "false"
+title: [Sojourner's Program Blog]
+description: [컴퓨터에 대한 애증을 담은 여러 글들]
+show_downloads: ["false"]
