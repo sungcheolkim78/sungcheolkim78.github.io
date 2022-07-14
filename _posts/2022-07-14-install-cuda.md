@@ -50,3 +50,7 @@ You can also reference the following [site](https://medium.com/geekculture/insta
 Once you install `cuda` and `cudnn`, you can start to compile `tensorflow`. Before you start, please follow instructions in [here](https://www.tensorflow.org/install/source)
 The key component is to install `go` and `bazelisk`. 
 
+# Compile Jax
+
+You can also compile jax using this [site](https://jax.readthedocs.io/en/latest/developer.html). Please make sure to install jaxlib and jax. 
+
