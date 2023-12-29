@@ -10,3 +10,4 @@ tags:
 # Improved Baselines with Visual Instruction Tuning
 
 ![](/files/paper-screenshots/2310.03744-screenshot.png)
+

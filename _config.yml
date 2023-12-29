@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sung-Cheol Kim / Help Others!"
+title                    : "Cutting-Edge Insights!"
 title_separator          : "-"
 name                     : &name "Sung-Cheol Kim"
 description              : &description "personal description"
@@ -83,9 +83,9 @@ analytics:
 author:
   name             : "Sung-Cheol Kim"
   avatar           : "portrait_20220626.jpg"
-  bio              : "Biophysicist, Data Scientist, Computer Vision Researcher - Apply ML to challenging healthcare problems with physics knowlege!"
+  bio              : "Biophysicist, Data Scientist, Computer Vision Researcher - Apply ML to challenging problems with physics knowlege!"
   location         : "New Jersey, USA"
-  employer         : "PsychoGenics"
+  employer         : "FM Global"
   email            : sungcheol.kim78@gmail.com
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-1656-7875"
   googlescholar    : "https://scholar.google.com/citations?user=p2KYYIQAAAAJ&hl=en&authuser=2"
