@@ -1,6 +1,7 @@
 ---
 title: 'MLOps Engineering: Curriculum for Success'
 date: 2023-12-30
+category: ML
 tags:
   - mlops
 ---

@@ -1,6 +1,7 @@
 ---
 title: 'Improved Baselines with Visual Instruction Tuning'
 date: 2023-12-29
+category: paper
 tags:
   - ml
   - paper
