@@ -1,46 +1,42 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Publications markdown generator for academicpages
+# 2023 Copyright (c) Sung-Cheol Kim, All Rights Reserved
+
+# Publications markdown generator for academicpages
 #
-# Takes a set of bibtex of publications and converts them for use with [academicpages.github.io](academicpages.github.io). This is an interactive Jupyter notebook ([see more info here](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html)).
-#
-# The core python code is also in `pubsFromBibs.py`.
 # Run either from the `markdown_generator` folder after replacing updating the publist dictionary with:
 # * bib file names
 # * specific venue keys based on your bib file preferences
 # * any specific pre-text for specific files
 # * Collection Name (future feature)
-#
-# TODO: Make this work with other databases of citations,
-# TODO: Merge this with the existing TSV parsing solution
 
 
-from pybtex.database.input import bibtex
-import pybtex.database.input.bibtex
-from time import strptime
-import string
 import html
 import os
 import re
+from time import strptime
 
-# todo: incorporate different collection types rather than a catch all publications, requires other changes to template
+from pybtex.database.input import bibtex
+
+# todo: incorporate different collection types rather than a catch all publications,
+# requires other changes to template
 publist = {
     "proceeding": {
-        "file": "proceedings.bib",
+        "file": "markdown_generator/proceedings.bib",
         "venuekey": "booktitle",
         "venue-pretext": "In the proceedings of ",
         "collection": {"name": "publications", "permalink": "/publication/"},
     },
     "journal": {
-        "file": "pubs.bib",
+        "file": "markdown_generator/pubs.bib",
         "venuekey": "journal",
         "venue-pretext": "",
         "collection": {"name": "publications", "permalink": "/publication/"},
     },
 }
 
-html_escape_table = {"&": "&amp;", '"': "&quot;", "'": "&apos;"}
+html_escape_table = {"&": "&amp;", '"': "&quot;", "'": "&apos;", "\textquoteright": "&quot;"}
 
 
 def html_escape(text):
@@ -163,7 +159,12 @@ for pubsource in publist:
 
             md += "\n---"
 
-            ## Markdown description for individual page
+            abstract = False
+            if "abstract" in b.keys():
+                if len(str(b["abstract"])) > 5:
+                    md += "\n" + html_escape(b["abstract"]) + "\n"
+
+            # Markdown description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
@@ -176,9 +177,10 @@ for pubsource in publist:
                     + '){:target="_blank"} for full citation'
                 )
 
+            # write md file
             md_filename = os.path.basename(md_filename)
 
-            with open("../_publications/" + md_filename, "w") as f:
+            with open("_publications/" + md_filename, "w") as f:
                 f.write(md)
             print(
                 f'SUCESSFULLY PARSED {bib_id}: "',
@@ -186,6 +188,7 @@ for pubsource in publist:
                 "..." * (len(b["title"]) > 60),
                 '"',
             )
+
         # field may not exist for a reference
         except KeyError as e:
             print(

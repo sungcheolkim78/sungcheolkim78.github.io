@@ -20,7 +20,7 @@
         "tests"
     ],
     "python.testing.unittestEnabled": false,
-    "python.testing.pytestEnabled": true,
+    "python.testing.pytestEnabled": false,
     "github.copilot.advanced": {
         "debug.testOverrideProxyUrl": "http://192.168.1.4:8080",
         "debug.overrideProxyUrl": "http://192.168.1.4:8080"
