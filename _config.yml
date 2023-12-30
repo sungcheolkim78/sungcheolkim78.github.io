@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cutting-Edge Insights!"
+title                    : "Sojourner"
 title_separator          : "-"
 name                     : &name "Sung-Cheol Kim"
 description              : &description "personal description"
@@ -29,7 +29,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : 5  # (default)
+    num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
