@@ -16,7 +16,7 @@ main:
     url: /year-archive/
     
   - title: "Tags"
-    url: /tags/
+    url: /categories/
 
   - title: "CV"
     url: /cv/
