@@ -9,9 +9,6 @@ main:
   #- title: "Talks"
   #  url: /talks/    
 
-  - title: "ML Journey"
-    url: /mljourney/
-
   - title: "Blogs"
     url: /year-archive/
     
