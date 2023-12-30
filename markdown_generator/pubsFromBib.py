@@ -36,7 +36,12 @@ publist = {
     },
 }
 
-html_escape_table = {"&": "&amp;", '"': "&quot;", "'": "&apos;", "\textquoteright": "&quot;"}
+html_escape_table = {
+    "&": "&amp;",
+    '"': "&quot;",
+    "'": "&apos;",
+    "\textquoteright": "&quot;",
+}
 
 
 def html_escape(text):
@@ -122,7 +127,8 @@ for pubsource in publist:
             citation = citation + " " + html_escape(venue)
             citation = citation + ", " + pub_year + "."
 
-            ## YAML variables
+            # -----------------------------------------------------
+            # YAML variables
             md = (
                 '---\ntitle: "'
                 + html_escape(
@@ -159,12 +165,21 @@ for pubsource in publist:
 
             md += "\n---"
 
+            # -----------------------------------------------------
+            # Markdown description for individual page
+            annote = False
+            if "annote" in b.keys():
+                if len(str(b["annote"])) > 5:
+                    md += "\n### Summary\n\n" + html_escape(b["annote"]) + "\n"
+                    annote = True
+                    print(html_escape(b["annote"]))
+
             abstract = False
             if "abstract" in b.keys():
                 if len(str(b["abstract"])) > 5:
-                    md += "\n" + html_escape(b["abstract"]) + "\n"
+                    md += "\n### Abstract\n\n" + html_escape(b["abstract"]) + "\n"
+                    abstract = True
 
-            # Markdown description for individual page
             if note:
                 md += "\n" + html_escape(b["note"]) + "\n"
 
