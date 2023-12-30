@@ -170,9 +170,8 @@ for pubsource in publist:
             annote = False
             if "annote" in b.keys():
                 if len(str(b["annote"])) > 5:
-                    md += "\n### Summary\n\n" + html_escape(b["annote"]) + "\n"
+                    md += "\n" + html_escape(b["annote"]) + "\n"
                     annote = True
-                    print(html_escape(b["annote"]))
 
             abstract = False
             if "abstract" in b.keys():

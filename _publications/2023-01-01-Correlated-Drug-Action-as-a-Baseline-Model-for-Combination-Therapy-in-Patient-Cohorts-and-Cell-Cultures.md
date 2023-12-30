@@ -7,9 +7,7 @@ venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/early/2023/03/19/2021.05.23.445343'
 citation: ' Adith Arun,  Sung-Cheol Kim,  Mehmet Ahsen,  Gustavo Stolovitzky, &quot;Correlated Drug Action as a Baseline Model for Combination Therapy in Patient Cohorts and Cell Cultures.&quot; bioRxiv, 2023.'
 ---
-### Summary
-
-This work introduces Correlated Drug Action (CDA), a baseline model for studying drug combinations in cell cultures and patient populations. The model assumes that the efficacy of pairs of drugs may be correlated, and can be applied in the temporal domain (tCDA) to explain survival curves in patient populations or in the dose domain (dCDA) to explain dose-response curves in cell cultures. The authors demonstrate tCDA&apos;s utility in identifying synergistic combinations at the clinical trial level and dCDA&apos;s applicability in assessing experimental data, providing a new metric called Excess over CDA (EOCDA). Three significant takeaways: 1) CDA is a novel baseline model for studying drug combinations that considers potential correlations between drug efficacies. 2) The model can be applied in both temporal and dose domains to analyze different types of data, such as survival curves or dose-response curves. 3) The authors demonstrate the utility of tCDA at the clinical trial level and dCDA&apos;s applicability in experimental data assessment using a new metric, EOCDA.
+1) CDA is a novel baseline model for studying drug combinations that considers potential correlations between drug efficacies.<br> 2) The model can be applied in both temporal and dose domains to analyze different types of data, such as survival curves or dose-response curves.<br> 3) The authors demonstrate the utility of tCDA at the clinical trial level and dCDA&apos;s applicability in experimental data assessment using a new metric, EOCDA.<br>
 
 ### Abstract
 
