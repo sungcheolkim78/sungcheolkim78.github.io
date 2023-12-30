@@ -7,7 +7,7 @@ venue: 'In the proceedings of Micro/Nano Materials, Devices, and Systems'
 paperurl: 'https://doi.org/10.1117/12.2033737'
 citation: ' Sridhar Kannam,  Matthew Downton,  Natalie Gunn,  Sung Kim,  Priscilla Rogers,  Christine Schieber,  Julia Baldauf,  John Wagner,  Daniel Scott,  Ross Bathgate,  Stan Skafidas,  Stefan Harrer, &quot;Nanosensors for next generation drug screening.&quot; In the proceedings of Micro/Nano Materials, Devices, and Systems, 2013.'
 ---
-1) The study focuses on evaluating drug screening technologies using protein translocation through nanopores. 2) It uses large-scale, atomistic simulations to compare expected and simulated current drop values. 3) The research is in the context of developing high-throughput, low-cost drug screening devices by combining nanofabrication and microfluidics techniques.
+1) The study focuses on evaluating drug screening technologies using protein translocation through nanopores. <br> 2) It uses large-scale, atomistic simulations to compare expected and simulated current drop values. <br> 3) The research is in the context of developing high-throughput, low-cost drug screening devices by combining nanofabrication and microfluidics techniques. <br>
 
 ### Abstract
 

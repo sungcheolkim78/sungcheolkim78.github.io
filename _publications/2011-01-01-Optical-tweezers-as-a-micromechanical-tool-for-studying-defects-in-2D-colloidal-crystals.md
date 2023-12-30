@@ -7,7 +7,7 @@ venue: 'In the proceedings of Optical Trapping and Optical Micromanipulation VII
 paperurl: 'https://doi.org/10.1117/12.897416'
 citation: ' Sungcheol Kim,  Lichao Yu,  Stephanie Huang,  Alexandros Pertsinidis,  Xinsheng Ling, &quot;Optical tweezers as a micromechanical tool for studying defects in 2D colloidal crystals.&quot; In the proceedings of Optical Trapping and Optical Micromanipulation VIII, 2011.'
 ---
-1) Vacancy-interstitial pairs can be long-lived but annihilate each other. 2) Tri-vacancies exhibit fluctuating behavior between bound dislocation pairs and local amorphous states. 3) These observations have implications for understanding the nature of 2D melting.
+1) Vacancy-interstitial pairs can be long-lived but annihilate each other. <br> 2) Tri-vacancies exhibit fluctuating behavior between bound dislocation pairs and local amorphous states. <br> 3) These observations have implications for understanding the nature of 2D melting.<br>
 
 ### Abstract
 

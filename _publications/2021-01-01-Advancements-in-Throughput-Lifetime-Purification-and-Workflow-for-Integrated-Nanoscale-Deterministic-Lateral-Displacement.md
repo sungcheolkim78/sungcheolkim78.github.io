@@ -7,7 +7,7 @@ venue: 'Advanced Materials Technologies'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/admt.202001083'
 citation: ' Benjamin Wunsch,  Kuan Hsieh,  Sung-Cheol Kim,  Michael Pereira,  Stanislav Lukashov,  Chris Scerbo,  John Papalia,  Elizabeth Duch,  Gustavo Stolovitzky,  Stacey Gifford,  Joshua Smith, &quot;Advancements in Throughput, Lifetime, Purification, and Workflow for Integrated Nanoscale Deterministic Lateral Displacement.&quot; Advanced Materials Technologies, 2021.'
 ---
-1) i-nanoDLD technology addresses nanoDLD&apos;s previous limitations with high efficiency and performance. 2) The development of an integrated design and increased parallelization results in a higher target colloid concentration and removal of contaminants from samples. 3) Upstream filter bank integration extends operation lifetime and allows for straightforward chip-to-world interfacing, making the technology suitable for research and clinical applications.
+1) i-nanoDLD technology addresses nanoDLD&apos;s previous limitations with high efficiency and performance. <br> 2) The development of an integrated design and increased parallelization results in a higher target colloid concentration and removal of contaminants from samples. <br> 3) Upstream filter bank integration extends operation lifetime and allows for straightforward chip-to-world interfacing, making the technology suitable for research and clinical applications.<br>
 
 ### Abstract
 

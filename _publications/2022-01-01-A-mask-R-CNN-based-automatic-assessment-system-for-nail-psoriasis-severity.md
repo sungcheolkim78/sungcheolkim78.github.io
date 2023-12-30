@@ -7,7 +7,7 @@ venue: 'Computers in Biology and Medicine'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0010482522000920'
 citation: ' Kuan Hsieh,  Hung-Yi Chen,  Sung-Cheol Kim,  Yun-Ju Tsai,  Hsien-Yi Chiu,  Guan-Yu Chen, &quot;A mask R-CNN based automatic assessment system for nail psoriasis severity.&quot; Computers in Biology and Medicine, 2022.'
 ---
-1. Nail psoriasis negatively affects patients&apos; quality of life and requires severity measures for effective treatment. 2. Dermatologists in Taiwan often manage high patient volumes, making complex assessments difficult. 3. A new system using deep learning architecture, mask R-CNN, simplifies and automates nail psoriasis severity assessment, potentially improving diagnosis and treatment decisions.
+1) Nail psoriasis negatively affects patients&apos; quality of life and requires severity measures for effective treatment. <br> 2) Dermatologists in Taiwan often manage high patient volumes, making complex assessments difficult.<br> 3) A new system using deep learning architecture, mask R-CNN, simplifies and automates nail psoriasis severity assessment, potentially improving diagnosis and treatment decisions.<br>
 
 ### Abstract
 

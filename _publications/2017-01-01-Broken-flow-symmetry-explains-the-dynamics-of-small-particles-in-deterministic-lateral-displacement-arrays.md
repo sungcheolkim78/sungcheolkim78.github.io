@@ -7,7 +7,7 @@ venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/doi/abs/10.1073/pnas.1706645114'
 citation: ' Sung-Cheol Kim,  Benjamin Wunsch,  Huan Hu,  Joshua Smith,  Robert Austin,  Gustavo Stolovitzky, &quot;Broken flow symmetry explains the dynamics of small particles in deterministic lateral displacement arrays.&quot; Proceedings of the National Academy of Sciences, 2017.'
 ---
-1. A unified theoretical framework is introduced to explain the trajectories of different-sized particles in DLD. 2. The framework can be used to design arrays for size fractionation, even at nanoscales. 3. Experimental verification confirms the accuracy of the predictions made by the framework, and a condenser structure with full particle separation is developed using this model.
+1) A unified theoretical framework is introduced to explain the trajectories of different-sized particles in DLD.<br> 2) The framework can be used to design arrays for size fractionation, even at nanoscales.<br> 3) Experimental verification confirms the accuracy of the predictions made by the framework, and a condenser structure with full particle separation is developed using this model.<br>
 
 ### Abstract
 

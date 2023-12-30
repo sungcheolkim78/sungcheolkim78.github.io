@@ -7,7 +7,7 @@ venue: 'Nanotechnology'
 paperurl: 'https://dx.doi.org/10.1088/0957-4484/25/15/155502'
 citation: ' Sridhar Kannam,  Sung Kim,  Priscilla Rogers,  Natalie Gunn,  John Wagner,  Stefan Harrer,  Matthew Downton, &quot;Sensing of protein molecules through nanopores: a molecular dynamics study.&quot; Nanotechnology, 2014.'
 ---
-1. Protein translocation through nanopores can be simulated using atomistic molecular dynamics. 2. The change in blockade current and friction coefficient depends on the position of the protein within the pore. 3. The shape of the pore influences the variation in current with position, while confinement affects the friction coefficient of the protein.
+1) Protein translocation through nanopores can be simulated using atomistic molecular dynamics.<br> 2) The change in blockade current and friction coefficient depends on the position of the protein within the pore.<br> 3) The shape of the pore influences the variation in current with position, while confinement affects the friction coefficient of the protein.<br>
 
 ### Abstract
 

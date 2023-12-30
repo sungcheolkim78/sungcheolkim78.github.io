@@ -7,7 +7,7 @@ venue: 'Gut'
 paperurl: 'https://gut.bmj.com/content/71/10/2069'
 citation: ' Johann Felden,  Teresa Garcia-Lezana,  Navneet Dogra,  Edgar Gonzalez-Kozlova,  Mehmet Ahsen,  Amanda Craig,  Stacey Gifford,  Benjamin Wunsch,  Joshua Smith,  Sungcheol Kim,  Jennifer Diaz,  Xintong Chen,  Ismail Labgaa,  Philipp Haber,  Reena Olsen,  Dan Han,  Paula Restrepo,  Delia D{\textquoteright}Avola,  Gabriela Hernandez-Meza,  Kimaada Allette,  Robert Sebra,  Behnam Saberi,  Parissa Tabrizian,  Amon Asgharpour,  Douglas Dieterich,  Josep Llovet,  Carlos Cordon-Cardo,  Ash Tewari,  Myron Schwartz,  Gustavo Stolovitzky,  Bojan Losic,  Augusto Villanueva, &quot;Unannotated small RNA clusters associated with circulating extracellular vesicles detect early stage liver cancer.&quot; Gut, 2022.'
 ---
-1. Unannotated small RNAs in exRNA smRCs have the potential to serve as biomarkers for early cancer detection. 2. A 3-smRC signature showed promising results in detecting HCC, with high sensitivity and specificity. 3. The development of a blood-based, operator-independent clinical tool for HCC surveillance is a significant step forward in cancer diagnostics.
+1) Unannotated small RNAs in exRNA smRCs have the potential to serve as biomarkers for early cancer detection. <br> 2) A 3-smRC signature showed promising results in detecting HCC, with high sensitivity and specificity.<br> 3) The development of a blood-based, operator-independent clinical tool for HCC surveillance is a significant step forward in cancer diagnostics.<br>
 
 ### Abstract
 

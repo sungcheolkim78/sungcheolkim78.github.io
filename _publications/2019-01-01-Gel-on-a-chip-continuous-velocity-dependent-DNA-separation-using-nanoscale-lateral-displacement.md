@@ -7,7 +7,7 @@ venue: 'Lab Chip'
 paperurl: 'http://dx.doi.org/10.1039/C8LC01408F'
 citation: ' Benjamin Wunsch,  Sung-Cheol Kim,  Stacey Gifford,  Yann Astier,  Chao Wang,  Robert Bruce,  Jyotica Patel,  Elizabeth Duch,  Simon Dawes,  Gustavo Stolovitzky,  Joshua Smith, &quot;Gel-on-a-chip: continuous, velocity-dependent DNA separation using nanoscale lateral displacement.&quot; Lab Chip, 2019.'
 ---
-1. NanoDLD devices can be used as continuous polymer fractionation tools. 2. dsDNA in the range of 100-10,000 base pairs can be separated with a size-selective resolution of 200 bp. 3. The developed model helps fine-tune separation efficiency and resolution based on flow velocity.
+1) NanoDLD devices can be used as continuous polymer fractionation tools.<br> 2) dsDNA in the range of 100-10,000 base pairs can be separated with a size-selective resolution of 200 bp.<br> 3) The developed model helps fine-tune separation efficiency and resolution based on flow velocity.<br>
 
 ### Abstract
 

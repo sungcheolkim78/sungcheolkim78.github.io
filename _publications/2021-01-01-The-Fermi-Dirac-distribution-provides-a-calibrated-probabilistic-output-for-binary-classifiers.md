@@ -7,7 +7,7 @@ venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/doi/abs/10.1073/pnas.2100761118'
 citation: ' Sung-Cheol Kim,  Adith Arun,  Mehmet Ahsen,  Robert Vogel,  Gustavo Stolovitzky, &quot;The Fermi-Dirac distribution provides a calibrated probabilistic output for binary classifiers.&quot; Proceedings of the National Academy of Sciences, 2021.'
 ---
-1. The proposed method maps the probability of correct classification to the Fermi-Dirac distribution, enabling computation of optimal thresholds and statistical parameters; 2. The relationship between classification probabilities and the Fermi-Dirac distribution allows for calibrated probabilistic outputs in binary classifiers; 3. FiDEL, an ensemble learning algorithm, utilizes this calibration to combine different classifiers effectively.
+1) The proposed method maps the probability of correct classification to the Fermi-Dirac distribution, enabling computation of optimal thresholds and statistical parameters; <br> 2) The relationship between classification probabilities and the Fermi-Dirac distribution allows for calibrated probabilistic outputs in binary classifiers; <br> 3) FiDEL, an ensemble learning algorithm, utilizes this calibration to combine different classifiers effectively.<br>
 
 ### Abstract
 

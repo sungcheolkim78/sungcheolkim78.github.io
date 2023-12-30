@@ -7,7 +7,7 @@ venue: 'Applied Physics Letters'
 paperurl: 'https://doi.org/10.1063/1.5003817'
 citation: ' Huan Hu,  Vince Siu,  Stacey Gifford,  Sungcheol Kim,  Minhua Lu,  Pablo Meyer,  Gustavo Stolovitzky, &quot;Bio-inspired silicon nanospikes fabricated by metal-assisted chemical etching for antibacterial surfaces.&quot; Applied Physics Letters, 2017.'
 ---
-1. A new, cost-effective and scalable method has been developed for creating antibacterial surfaces using metal-assisted chemical etching on single crystal silicon substrates. 2. The process involves etching in a mixture of silver nitrate and hydrofluoric acid for 6 minutes to create optimal nanospikes with bactericidal properties. 3. The resulting surfaces exhibit strong antimicrobial activity against various bacteria, offering potential applications in antibacterial technologies.
+1) A new, cost-effective and scalable method has been developed for creating antibacterial surfaces using metal-assisted chemical etching on single crystal silicon substrates.<br> 2) The process involves etching in a mixture of silver nitrate and hydrofluoric acid for 6 minutes to create optimal nanospikes with bactericidal properties.<br> 3) The resulting surfaces exhibit strong antimicrobial activity against various bacteria, offering potential applications in antibacterial technologies.<br>
 
 ### Abstract
 

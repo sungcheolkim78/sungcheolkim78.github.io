@@ -7,7 +7,7 @@ venue: 'Proceedings of the National Academy of Sciences'
 paperurl: 'https://www.pnas.org/doi/abs/10.1073/pnas.1918097117'
 citation: ' Sung-Cheol Kim,  Lichao Yu,  Alexandros Pertsinidis,  Xinsheng Ling, &quot;Dynamical processes of interstitial diffusion in a two-dimensional colloidal crystal.&quot; Proceedings of the National Academy of Sciences, 2020.'
 ---
-1. Point defects, such as vacancies and interstitials, play an important role in the thermodynamics of 2D solids. 2. Interstitial diffusion constants are larger than those of vacancies, with diinterstitials being slower than monointerstitials. 3. Equilibrium behavior is observed for mono-interstitials, while local melting is suggested for di-interstitials, opening up opportunities for microscopic studies on the dynamics of melting in colloidal model systems.
+1) Point defects, such as vacancies and interstitials, play an important role in the thermodynamics of 2D solids.<br> 2) Interstitial diffusion constants are larger than those of vacancies, with diinterstitials being slower than monointerstitials.<br> 3) Equilibrium behavior is observed for mono-interstitials, while local melting is suggested for di-interstitials, opening up opportunities for microscopic studies on the dynamics of melting in colloidal model systems.<br>
 
 ### Abstract
 

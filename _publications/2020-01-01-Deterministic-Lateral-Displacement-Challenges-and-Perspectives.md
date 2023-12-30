@@ -8,7 +8,7 @@ venue: 'ACS Nano'
 paperurl: 'https://doi.org/10.1021/acsnano.0c05186'
 citation: ' Axel Hochstetter,  Rohan Vernekar,  Robert Austin,  Holger Becker,  Jason Beech,  Dmitry Fedosov,  Gerhard Gompper,  Sung-Cheol Kim,  Joshua Smith,  Gustavo Stolovitzky,  Jonas Tegenfeldt,  Benjamin Wunsch,  Kerwin Zeming,  Timm Kr{\&quot;u}ger,  David Inglis, &quot;Deterministic Lateral Displacement: Challenges and Perspectives.&quot; ACS Nano, 2020.'
 ---
-1. Microfluidics has had a significant impact on various industries since the 1990s. 2. DLD is a widely used particle separation method with room for further understanding and optimization. 3. This Perspective aims to provide expert opinions on challenges and opportunities in DLD, focusing on micro- and nano-scale aspects.
+1) Microfluidics has had a significant impact on various industries since the 1990s.<br> 2) DLD is a widely used particle separation method with room for further understanding and optimization.<br> 3) This Perspective aims to provide expert opinions on challenges and opportunities in DLD, focusing on micro- and nano-scale aspects.<br>
 
 ### Abstract
 
