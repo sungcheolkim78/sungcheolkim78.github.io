@@ -7,8 +7,6 @@ tags:
   - llm
 ---
 
-# Large Language Model Evaluation Metrics
-
 Large language models are evaluated using various metrics to measure their performance. Some of the most common evaluation metrics include:
 
 - Perplexity

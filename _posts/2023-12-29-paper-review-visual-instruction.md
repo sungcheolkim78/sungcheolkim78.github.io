@@ -7,7 +7,6 @@ tags:
   - image-to-text
 ---
 
-# Visual Instruction Tuning
 
 ![](/files/paper-screenshots/2304.08485-screenshot.png)
 
