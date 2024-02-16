@@ -6,7 +6,7 @@
     "files.autoSaveDelay": 1000,
     "editor.cursorStyle": "block-outline",
     "editor.cursorBlinking": "smooth",
-    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.colorTheme": "Visual Studio Light",
     "editor.rulers": [88, 120],
     "[python]": {
         "editor.codeActionsOnSave": {
